@@ -10,33 +10,17 @@ tags:
 
 <center>
 
-  <font size="8">Porfolio Rough Site<br>
-  <font size="5">Created by Your Name<br>
-**Submission: March 1, 2026**<br>
-Spring - 2025
+  <font size="8">Octogon Oni Martial Arts<br>
+  <font size="5">Created by Verschnaufpause<br>
+  Spring - 2026
 
 </center>
 
+## Introduction
 
-<!-- the bracketed br is html for break and the font does change font size where center will format centrally -->
+Welcome to Octogon Oni's website, we aren't entirely sure why you are here but we welcome you all the same. Master Oni looks forward to you training in his gym.
 
-## Emphasis is two hashtags / pounds
+> * For support PLEASE reach out to Master Oni.
+> * For resources - good luck we have none because memoranda took all our time.
 
-**Normal text surrounded by two astrisks = bolded**
-
-
-
-Now we're back to normal text
-[HyperlinkText](https://youtu.be/dQw4w9WgXcQ?si=6tFufGTCMs5t37Ex)
-[!Replace text with image](relativeFileSetup/FileName)
-
-* Bullet point 1
-* Bullet point 2
-
-> hi
-> this is a weird text
-
-|Excel      | Spreadsheet              |
-| :-------  | :------------------      |
-| we want   | A spreadsheet like table |
-| therefore | we make it look like one |
+Have a great day and good luck with your training.
