@@ -1,6 +1,9 @@
 # OctogonOni
  This is a simple site that should be built through GitHub to work as a website for our SER 316 Memoranda Project. Edits should be made to update the link in mkdocs.yml and other documents in docs/ and then the subsequent file.
 
+[Website link](https://dreynolds5.github.io/Octogon-Oni/)
+[Memoranda Repo Link](https://github.com/amehlhase316/SER316-S26C-Verschnaufpause)
+
 ## Here is the Memoranda README as provided to our team through the start of this project.
 
 Project SER316
