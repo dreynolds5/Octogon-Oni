@@ -16,7 +16,7 @@ tags:
 
 </center>
 
-## Introduction
+## **Introduction**
 
 Welcome to Octogon Oni's website, we aren't entirely sure why you are here but we welcome you all the same. Master Oni looks forward to you training in his gym.
 
